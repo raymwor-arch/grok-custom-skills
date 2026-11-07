@@ -1,10 +1,15 @@
 # Grok Custom Skills
 
-Custom skills synced from local Grok environment.
+Custom skills synced from local Grok environment, plus ambition skills.
 
 Sorted and categorized by function / purpose.
 
 ## Categories
+
+### Ambition
+- **altitude-elevator**: Raise a task layer by layer from small steps to the real outcome.
+- **depth-expert**: Upgrade a task to expert-level methods, primary data, and bold targets.
+- **range-cross-domain**: Remove industry labels by turning nouns into verbs and borrow methods from other fields.
 
 ### Debugging
 - **diagnosing-bugs**: Diagnosis loop for hard bugs and performance regressions.
